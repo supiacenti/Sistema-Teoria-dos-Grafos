@@ -1,4 +1,3 @@
 Suellen Carolina Rosa Piacenti
-RGM: 2271300-0
 
 Obs: Algumas partes do código podem estar redundantes, não está tão sofisticado como eu queria, porque não tive muito tempo para planejar, mas com certeza vai ser um projeto futuro para implementar com mais coisas, gostei demais de programar isso (principalmente quando funcionou).
